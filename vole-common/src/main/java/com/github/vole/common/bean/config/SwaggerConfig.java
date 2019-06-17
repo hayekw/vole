@@ -35,7 +35,7 @@ public class SwaggerConfig {
         ParameterBuilder tokenBuilder = new ParameterBuilder();
         List<Parameter> parameterList = new ArrayList<>();
         tokenBuilder.name("Authorization")
-                .defaultValue("去其他请求中获取heard中token参数")
+                .defaultValue("去其他请求中获取head中token参数")
                 .description("令牌")
                 .modelRef(new ModelRef("string"))
                 .parameterType("header")

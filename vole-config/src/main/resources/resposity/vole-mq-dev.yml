@@ -37,4 +37,3 @@ zebra:
     consumerBroadcasting: false
     subscribe[0]: TopicTest1:TagA
     enableHisConsumer: false
-    enableHisConsumer: false

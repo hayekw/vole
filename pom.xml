@@ -24,7 +24,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-cloud.version>Finchley.SR2</spring-cloud.version>
         <!--Lombok-->
-        <lombok.version>1.16.20</lombok.version>
+        <lombok.version>1.18.8</lombok.version>
 
         <jjwt.version>0.9.0</jjwt.version>
         <fastjson.version>1.2.46</fastjson.version>
